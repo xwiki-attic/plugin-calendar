@@ -1,0 +1,5 @@
+This is the old calendar application, bundled in early versions of XWiki Enterprise.
+It has been removed since it wasn't actively maintained and didn't meet the quality standards required for platform code.
+
+This extension uses the plugin technology which has been deprecated and is now replaced by Components.
+If someone is interested in improving this extension, we recommend rewriting it as components.
