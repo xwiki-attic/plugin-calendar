@@ -30,9 +30,9 @@
     <version>3.2-SNAPSHOT</version>
   </parent>
   <artifactId>xwiki-platform-calendar</artifactId>
-  <name>XWiki Platform - Calendar - Parent POM</name>
+  <name>Calendar Application</name>
   <packaging>pom</packaging>
-  <description>XWiki Platform - Calendar - Parent POM</description>
+  <description>A calendar to which events can be added</description>
   <modules>
     <module>xwiki-platform-calendar-api</module>
     <module>xwiki-platform-calendar-ui</module>
